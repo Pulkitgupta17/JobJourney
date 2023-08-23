@@ -48,9 +48,9 @@ NOTE: Please read the RUN section before opening an issue.
 
 ![screenshot](screenshots/Profile.png)
 
-The application is deployed to Heroku and can be accessed through the following link:
+The application is deployed on Render and can be accessed through the following link:
 
-[Job-Tracker on Heroku](https://job-tracker-production.herokuapp.com/)
+[Job-Tracker on Render]()
 
 You can add the jobs you've applied for and update their status to keep a track of your progress.
 
